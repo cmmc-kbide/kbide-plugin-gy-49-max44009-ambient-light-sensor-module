@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-49-max44009-ambient-light-sensor-module",
+  "title": "gy-49-max44009-ambient-light-sensor-module",
+  "keywords": "gy-49-max44009-ambient-light-sensor-module, esp32, esp8266, arduino",
+  "description": "gy-49-max44009-ambient-light-sensor-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-49-max44009-ambient-light-sensor-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-49-max44009-ambient-light-sensor-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
